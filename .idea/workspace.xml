@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1430de24-d62c-4c1c-9708-91032e9b7553" name="Changes" comment="0213 test">
-      <change afterPath="$PROJECT_DIR$/.idea/test0213" afterDir="false" />
+    <list default="true" id="1430de24-d62c-4c1c-9708-91032e9b7553" name="Changes" comment="0213 test123">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676270594378</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0213 test123">
+      <created>1676270920051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676270920051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +132,7 @@
     <MESSAGE value="first" />
     <MESSAGE value="second test" />
     <MESSAGE value="0213 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="0213 test" />
+    <MESSAGE value="0213 test123" />
+    <option name="LAST_COMMIT_MESSAGE" value="0213 test123" />
   </component>
 </project>
